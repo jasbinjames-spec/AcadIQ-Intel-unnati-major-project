@@ -41,6 +41,7 @@ powered by a K-Nearest Neighbors (KNN) classifier and served via a Flask REST AP
 ## 📂 Project Structure
 
 ​```
+
 ├── app.py                  # Flask backend & API routes
 
 ├── save_model.py           # Script to train & save model
