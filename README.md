@@ -41,13 +41,20 @@ powered by a K-Nearest Neighbors (KNN) classifier and served via a Flask REST AP
 ## 📂 Project Structure
 
 ​```
-├── app.py                  # Flask backend & API routes/n
-├── save_model.py           # Script to train & save model/n
-├── model.pkl               # Trained model (binary)/n
-├── index.html              # Frontend UI/n
-├── AI_Project_dataset.xlsx # Student dataset/n
-├── requirements.txt        # Python dependencies/n
-└── README.md               # Project documentation/n
+├── app.py                  # Flask backend & API routes
+
+├── save_model.py           # Script to train & save model
+
+├── model.pkl               # Trained model (binary)
+
+├── index.html              # Frontend UI
+
+├── AI_Project_dataset.xlsx # Student dataset
+
+├── requirements.txt        # Python dependencies
+
+└── README.md               # Project documentation
+
 ​```
 
 ## 🚀 Getting Started
